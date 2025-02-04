@@ -10,5 +10,6 @@
 * 3 Resistores (330 Ohm, um para cada LED)
   
   Após a conexão nos respectivos pinos (disponíveis e alteráveis nas variáveis do código), basta:
-    - No Wokwi, adicionar o código presente em "semaforo.c" na simulação e rodar
-    - No Raspberry Pi Pico W, compilar o código "semaforo.c" em um arquivo de extensão .uf2 e carregar na memória flash do dispositivo. A compilação pode ser feita através da extensão Raspberry Pi Pico, presente no Visual Studio Code, ou da forma que desejar
+
+* No Wokwi, adicionar o código presente em "semaforo.c" na simulação e rodar
+* No Raspberry Pi Pico W, compilar o código "semaforo.c" em um arquivo de extensão .uf2 e carregar na memória flash do dispositivo. A compilação pode ser feita através da extensão Raspberry Pi Pico, presente no Visual Studio Code, ou da forma que desejar
