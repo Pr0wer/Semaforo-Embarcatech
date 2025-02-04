@@ -13,3 +13,5 @@ Após a conexão nos respectivos pinos (disponíveis e alteráveis nas variávei
 
 * No [Wokwi](https://wokwi.com/), adicionar o código presente em "semaforo.c" na simulação e rodar
 * No Raspberry Pi Pico W, compilar o código "semaforo.c" em um arquivo de extensão .uf2 e carregar na memória flash do dispositivo. A compilação pode ser feita através da extensão Raspberry Pi Pico, presente no [Visual Studio Code](https://code.visualstudio.com/), ou da forma que desejar
+
+Com o programa rodando, será possível observar os LEDs ligando e desligando, de forma semelhante a um semáforo
